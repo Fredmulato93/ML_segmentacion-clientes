@@ -38,6 +38,7 @@ Este proyecto ha sido desarrollado como parte de una entrega de aprendizaje auto
 
 ## 🔐 Requisitos de Ejecución
 Instalar las siguientes librerías (puedes usar un entorno virtual):
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
+```bash: pip install pandas numpy matplotlib seaborn scikit-learn
+
+
 
