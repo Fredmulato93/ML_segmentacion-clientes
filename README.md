@@ -31,3 +31,11 @@ ML_segmentacion-clientes/ ├── README.md ├── src/ │ ├── data_
 Instalar las siguientes librerías (puedes usar un entorno virtual):
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
+
+## 🚀 Cómo Ejecutar
+1. Clonar el repositorio.
+2. Asegurarse de tener el archivo CSV en la carpeta `data_sample`.
+3. Ejecutar el notebook `kmeans_segmentation_final.ipynb` ubicado en `src/results_notebook`.
+
+## 👩‍💼 Autor
+Este proyecto ha sido desarrollado como parte de una entrega de aprendizaje automático, integrando conocimientos de ciencia de datos, preprocesamiento y visualización.
