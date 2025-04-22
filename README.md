@@ -27,10 +27,6 @@ El modelo final segmenta a los clientes en **3 grupos** distintos que representa
 ## 📁 Estructura del Repositorio# ML_segmentacion-clientes
 ML_segmentacion-clientes/ ├── README.md ├── src/ │ ├── data_sample/ │ │ └── Model_creditoPersonal_sample.csv │ ├── img/ │ │ ├── grafico_elbow.png │ │ └── scatter_income_ccavg.png │ ├── notebooks/ │ │ └── pruebas_kmeans.ipynb │ ├── results_notebook/ │ │ └── kmeans_segmentation_final.ipynb │ ├── models/ │ │ └── modelo_kmeans.pkl │ └── utils/ │ ├── preprocesamiento.py │ └── funciones_clustering.py
 
-## 🔐 Requisitos de Ejecución
-Instalar las siguientes librerías (puedes usar un entorno virtual):
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
 
 ## 🚀 Cómo Ejecutar
 1. Clonar el repositorio.
@@ -39,3 +35,9 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ## 👩‍💼 Autor
 Este proyecto ha sido desarrollado como parte de una entrega de aprendizaje automático, integrando conocimientos de ciencia de datos, preprocesamiento y visualización.
+
+## 🔐 Requisitos de Ejecución
+Instalar las siguientes librerías (puedes usar un entorno virtual):
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn
+
